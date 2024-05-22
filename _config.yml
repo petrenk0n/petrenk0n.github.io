@@ -1,8 +1,6 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-
 title: Nikita Petrenko - Portfolio
 description: Portfolio
+url: "https://petrenko.io"
+theme: jekyll-theme-minimal
 
-google_analytics: 442275075
+google_analytics: G-TSG38YDBK1
